@@ -1,0 +1,31 @@
+{
+    "useSession": "false",
+    "showPageSizeSelector": "true",
+    "rowActions": [],
+    "columns": [
+        {
+            "name": "id",
+            "id": "column_0",
+            "label": "ID"
+        },
+        {
+            "name": "field1",
+            "id": "column_1",
+            "label": "Text Field"
+        }
+    ],
+    "pageSize": 0,
+    "orderBy": "",
+    "filters": [],
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "buttonPosition": "bottomLeft",
+    "checkboxPosition": "left",
+    "name": "List - test",
+    "id": "list_test",
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "test"}
+    },
+    "actions": [],
+    "order": ""
+}

@@ -1,0 +1,16 @@
+<appDefinition>
+   <appId>cloud</appId>
+   <id>cloud</id>
+   <version></version>
+   <name>cloud</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+   <license>mQ2483M744wzicKzUDuOwl0hVmyJL9k21KBMB/56tJSV4J6RQqVJtQ==</license>
+</appDefinition>
